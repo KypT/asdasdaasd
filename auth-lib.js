@@ -1,7 +1,7 @@
 var allUsers = [];
 
 function users() { return allUsers }
-
+askdgjfasdgasd
 function createUser(name, pass) { 
 	var user = {name: name, pass: pass};
 	allUsers.push(user);
